@@ -10,7 +10,7 @@ public class JavaOutputFormatting {
         for(int i=0; i<3; i++) {
             String s1 = sc.next();
             int x = sc.nextInt();
-            System.out.printf( "%-15s%03d %n", s1, x);  // 이 한줄이면 끝이네..
+            System.out.printf( "%-15s%03d %n", s1, x);  // just this line instead of below
             
             /*
             System.out.print(s1);
