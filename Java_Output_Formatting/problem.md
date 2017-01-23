@@ -27,3 +27,4 @@ The second column contains the integer, expressed in exactly 3 digits; if the or
 
 Each String is left-justified with trailing whitespace through the first 15 characters. The leading digit of the integer is the 16th  character, and each integer that was less than 3 digits now has leading zeroes.
 
+[see my answer](https://github.com/bonghaha/hackerrank-Java/blob/master/Java_Output_Formatting/JavaOutputFormatting.java)
