@@ -31,3 +31,5 @@ If you use the nextLine() method immediately following the nextInt() method, rec
 	String: Welcome to HackerRank's Java tutorials!
 	Double: 3.1415
 	Int: 42
+
+[see my answer](https://github.com/bonghaha/hackerrank-Java/blob/master/Java_Stdin_and_stdout_II/JavaStdinAndStdoutII.java)
