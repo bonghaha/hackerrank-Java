@@ -38,3 +38,5 @@ There are 3 lines of input, and each line contains a single integer.
     42
     100
     125
+
+[See my answer](https://github.com/bonghaha/hackerrank-Java/blob/master/Java_Stdin_and_Stdout_I/JavaStdinAndStdoutI.java)
